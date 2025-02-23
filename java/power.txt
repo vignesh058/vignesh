@@ -1,0 +1,14 @@
+import java.util.*;
+class power
+{
+public static void main(String[] args)
+{
+Scanner obj = new Scanner (System.in);
+System.out.println("Enter the base");
+int base = obj.nextInt();
+System.out.println("Enter an exponent value");
+int exponent = obj.nextInt();
+int power = (int)Math.pow(base,exponent);
+System.out.println("power of a number is" +power);
+}
+}

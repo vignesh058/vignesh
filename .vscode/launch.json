@@ -1,0 +1,113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exception",
+            "request": "launch",
+            "mainClass": "exception",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "exceptions",
+            "request": "launch",
+            "mainClass": "exceptions",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "Bio_Computing",
+            "request": "launch",
+            "mainClass": "Bio_Computing",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "genePattern",
+            "request": "launch",
+            "mainClass": "genePattern",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "box",
+            "request": "launch",
+            "mainClass": "box",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "shape",
+            "request": "launch",
+            "mainClass": "shape",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "swing",
+            "request": "launch",
+            "mainClass": "swing",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "multithreading",
+            "request": "launch",
+            "mainClass": "multithreading",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "multiThreading",
+            "request": "launch",
+            "mainClass": "multiThreading",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "workouts_bd9b10ca"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

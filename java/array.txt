@@ -1,0 +1,37 @@
+import java.util.*;
+class array
+{
+public static void main(String[] args)
+{
+Scanner obj = new Scanner (System.in);
+int noe = 7;
+int [] arr = new int[noe];
+System.out.println("Enter array elements:");
+for (int ind =0; ind<noe;ind++)
+{
+arr[ind]=obj.nextInt();
+}
+System.out.println("Element of array:");
+for(int ind = 0;ind<noe;ind++)
+{
+System.out.println(arr[ind]+" ");
+}
+}
+}
+
+
+class Array 
+{ 
+ public static void main (String [] args) 
+ { 
+  int noe = 5; 
+  int arr[] = {12,32,56,98,55}; 
+  System.out.println("Element of array:");
+  for (int ind = 0; ind < noe; ind++) 
+  { 
+   System.out.print(arr[ind]+" "); 
+  } 
+ } 
+} 
+ 
+ 
